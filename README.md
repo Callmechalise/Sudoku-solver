@@ -16,15 +16,16 @@ This repository contains a Python-based Sudoku solver that accepts user input fo
 2.NumPy (pip install numpy)   
 
 # How to Use:
-Clone the repository:
+
+# Clone the repository:
 bash
 git clone <repository_url>
 
-Navigate to the project directory:
+# Navigate to the project directory:
 bash
 cd sudoku-solver
 
-Run the program:
+# Run the program:
 bash
 python main.py
 
