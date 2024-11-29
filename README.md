@@ -12,8 +12,8 @@ This repository contains a Python-based Sudoku solver that accepts user input fo
 7.Matrix Visualization: Displays the grid in a structured matrix format for better readability.
 
 # Requirements:
--Python 3.x
--NumPy (pip install numpy)
+1.Python 3.x
+2.NumPy (pip install numpy)
 
 # How to Use:
 Clone the repository:
