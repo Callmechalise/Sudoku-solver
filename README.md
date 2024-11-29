@@ -45,7 +45,7 @@ Initial Puzzle:
  [6 0 0 1 9 5 0 0 0]   
  [0 9 8 0 0 0 0 6 0]  
  ...]
- ![Alt text](image_url_or_path)
+
 
 
 Solved Puzzle:
