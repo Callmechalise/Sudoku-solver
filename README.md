@@ -52,9 +52,10 @@ Solved Puzzle:
  ...]
 
 # Additional Notes:
-Ensure the input is valid (9 digits per row) for the program to function correctly.
-This implementation can be extended to include a graphical interface or more robust input handling.
-Contributions and feedback are welcome! 🚀
+Ensure the input is valid (9 digits per row) for the program to function correctly.  
+This implementation can be extended to include a graphical interface or more robust input handling.   
+Contributions and feedback are welcome! 🚀    
+
 
 
 
