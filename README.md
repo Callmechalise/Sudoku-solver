@@ -32,8 +32,8 @@ Input the Sudoku puzzle row by row as a sequence of 9 digits. Use 0 for blank sp
 
 # Example Input:
 
-Enter numbers in row 1 Without spaces and commas: 530070000
-Enter numbers in row 2 Without spaces and commas: 600195000
+Enter numbers in row 1 Without spaces and commas: 530070000  
+Enter numbers in row 2 Without spaces and commas: 600195000   
 Enter numbers in row 3 Without spaces and commas: 098000060
 ...
 
