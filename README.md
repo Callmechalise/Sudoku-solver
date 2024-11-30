@@ -3,13 +3,13 @@
 This repository contains a Python-based Sudoku solver that accepts user input for an unsolved Sudoku puzzle, validates the input, and solves the puzzle using a backtracking algorithm. The program utilizes NumPy for matrix representation and provides robust error handling to ensure valid input.
 
 # Features:
-1.User-Friendly Input: Accepts a 9x9 Sudoku grid as user input, with 0 representing blank spaces.
-2.Error Handling: Includes a try-except block to handle invalid input (non-integer values).
-3.Validation Function: Checks the validity of placing a number in a specific cell by ensuring:
-4.The number does not already exist in the same row or column.
-5.The number is not repeated in the respective 3x3 sub-grid.
-6.Backtracking Algorithm: Implements a recursive approach to solve the puzzle efficiently.
-7.Matrix Visualization: Displays the grid in a structured matrix format for better readability.
+1.User-Friendly Input: Accepts a 9x9 Sudoku grid as user input, with 0 representing blank spaces.    
+2.Error Handling: Includes a try-except block to handle invalid input (non-integer values).    
+3.Validation Function: Checks the validity of placing a number in a specific cell by ensuring:    
+4.The number does not already exist in the same row or column.    
+5.The number is not repeated in the respective 3x3 sub-grid.   
+6.Backtracking Algorithm: Implements a recursive approach to solve the puzzle efficiently.    
+7.Matrix Visualization: Displays the grid in a structured matrix format for better readability.   
 
 # Requirements:
 1.Python 3.x   
