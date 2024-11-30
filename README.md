@@ -22,11 +22,11 @@ bash
 git clone <repository_url>
 
 **Navigate to the project directory:**
-bash
+bash   
 cd sudoku-solver
 
 **Run the program:**
-bash
+bash   
 python main.py
 
 Input the Sudoku puzzle row by row as a sequence of 9 digits. Use 0 for blank spaces.
