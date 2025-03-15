@@ -30,7 +30,7 @@ bash
 python main.py
 
 Input the Sudoku puzzle row by row as a sequence of 9 digits. Use 0 for blank spaces.
-```
+```python
 import numpy as np
 sudoku=[]
 print('Enter numbers in ordered form.Use 0 for black space')
